@@ -9,7 +9,8 @@ const HomePage = () => {
     {
       name: '',
       amount: '',
-      date: ''
+      date: '',
+      id: ''
     }
   )
 
