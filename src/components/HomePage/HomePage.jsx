@@ -5,7 +5,7 @@ import Navbar from '../Navbar/Navbar'
 const HomePage = () => {
 
   const [ expenses, setExpense ] = useState([])
-  const [newExpense, setNewExpense] = useState(
+  const [ newExpense, setNewExpense ] = useState(
     {
       name: '',
       amount: '',
